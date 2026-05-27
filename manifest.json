@@ -1,0 +1,14 @@
+{
+  "name": "Lanka Survival",
+  "short_name": "LankaSurvival",
+  "start_url": "voxel_survival.html",
+  "display": "fullscreen",
+  "background_color": "#000000",
+  "icons": [
+    {
+      "src": "logo.png", 
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
